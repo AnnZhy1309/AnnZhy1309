@@ -1,4 +1,6 @@
-**✨ Hello everyone! I'm glad to see you on my github profile and will be happy to share some informarion about myself.**
+**✨ Hello everyone! **
+
+I'm glad to see you on my github profile and will be happy to share some informarion about myself.
 
 👋 My name is Anna, I am a Ukraninan based in Barcelona, a recent graduate of Develhope, where I immersed myself in the world of web development and started my journey as a Full Stack Developer. While I may be new to the professional scene, my enthusiasm knows no bounds, and I'm eager to make my mark in the tech industry.
 
