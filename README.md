@@ -1,4 +1,4 @@
-**✨ Hello everyone! **
+**✨ Hello everyone!**
 
 I'm glad to see you on my github profile and will be happy to share some informarion about myself.
 
