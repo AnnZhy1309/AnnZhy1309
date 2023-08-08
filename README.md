@@ -5,6 +5,7 @@ I'm glad to see you on my github profile and will be happy to share some informa
 👋 My name is Anna, I am a Ukraninan based in Barcelona, a recent graduate of Develhope, where I immersed myself in the world of web development and started my journey as a Full Stack Developer. I may be new to the professional scene, but my enthusiasm knows no bounds, and I'm eager to make my mark in the tech industry.
 
 🌱 My Skills So Far
+
 Throughout my bootcamp experience, I've dived learned and improved technologies and tools, including:
 
 - Front-End: HTML, CSS, JavaScript, Typescript, React;
